@@ -1,0 +1,357 @@
+municip_code,municip_name,county_code,county_name
+municip0301,Oslo,county03,Oslo
+municip1101,Eigersund,county11,Rogaland
+municip1103,Stavanger,county11,Rogaland
+municip1106,Haugesund,county11,Rogaland
+municip1108,Sandnes,county11,Rogaland
+municip1111,Sokndal,county11,Rogaland
+municip1112,Lund,county11,Rogaland
+municip1114,Bjerkreim,county11,Rogaland
+municip1119,Hå,county11,Rogaland
+municip1120,Klepp,county11,Rogaland
+municip1121,Time,county11,Rogaland
+municip1122,Gjesdal,county11,Rogaland
+municip1124,Sola,county11,Rogaland
+municip1127,Randaberg,county11,Rogaland
+municip1130,Strand,county11,Rogaland
+municip1133,Hjelmeland,county11,Rogaland
+municip1134,Suldal,county11,Rogaland
+municip1135,Sauda,county11,Rogaland
+municip1144,Kvitsøy,county11,Rogaland
+municip1145,Bokn,county11,Rogaland
+municip1146,Tysvær,county11,Rogaland
+municip1149,Karmøy,county11,Rogaland
+municip1151,Utsira,county11,Rogaland
+municip1160,Vindafjord,county11,Rogaland
+municip1505,Kristiansund,county15,Møre og Romsdal
+municip1506,Molde,county15,Møre og Romsdal
+municip1507,Ålesund,county15,Møre og Romsdal
+municip1511,Vanylven,county15,Møre og Romsdal
+municip1514,Sande,county15,Møre og Romsdal
+municip1515,Herøy,county15,Møre og Romsdal
+municip1516,Ulstein,county15,Møre og Romsdal
+municip1517,Hareid,county15,Møre og Romsdal
+municip1520,Ørsta,county15,Møre og Romsdal
+municip1525,Stranda,county15,Møre og Romsdal
+municip1528,Sykkylven,county15,Møre og Romsdal
+municip1531,Sula,county15,Møre og Romsdal
+municip1532,Giske,county15,Møre og Romsdal
+municip1535,Vestnes,county15,Møre og Romsdal
+municip1539,Rauma,county15,Møre og Romsdal
+municip1547,Aukra,county15,Møre og Romsdal
+municip1554,Averøy,county15,Møre og Romsdal
+municip1557,Gjemnes,county15,Møre og Romsdal
+municip1560,Tingvoll,county15,Møre og Romsdal
+municip1563,Sunndal,county15,Møre og Romsdal
+municip1566,Surnadal,county15,Møre og Romsdal
+municip1573,Smøla,county15,Møre og Romsdal
+municip1576,Aure,county15,Møre og Romsdal
+municip1577,Volda,county15,Møre og Romsdal
+municip1578,Fjord,county15,Møre og Romsdal
+municip1579,Hustadvika,county15,Møre og Romsdal
+municip1804,Bodø,county18,Nordland
+municip1806,Narvik,county18,Nordland
+municip1811,Bindal,county18,Nordland
+municip1812,Sømna,county18,Nordland
+municip1813,Brønnøy,county18,Nordland
+municip1815,Vega,county18,Nordland
+municip1816,Vevelstad,county18,Nordland
+municip1818,Herøy,county18,Nordland
+municip1820,Alstahaug,county18,Nordland
+municip1822,Leirfjord,county18,Nordland
+municip1824,Vefsn,county18,Nordland
+municip1825,Grane,county18,Nordland
+municip1826,Hattfjelldal,county18,Nordland
+municip1827,Dønna,county18,Nordland
+municip1828,Nesna,county18,Nordland
+municip1832,Hemnes,county18,Nordland
+municip1833,Rana,county18,Nordland
+municip1834,Lurøy,county18,Nordland
+municip1835,Træna,county18,Nordland
+municip1836,Rødøy,county18,Nordland
+municip1837,Meløy,county18,Nordland
+municip1838,Gildeskål,county18,Nordland
+municip1839,Beiarn,county18,Nordland
+municip1840,Saltdal,county18,Nordland
+municip1841,Fauske,county18,Nordland
+municip1845,Sørfold,county18,Nordland
+municip1848,Steigen,county18,Nordland
+municip1851,Lødingen,county18,Nordland
+municip1853,Evenes,county18,Nordland
+municip1856,Røst,county18,Nordland
+municip1857,Værøy,county18,Nordland
+municip1859,Flakstad,county18,Nordland
+municip1860,Vestvågøy,county18,Nordland
+municip1865,Vågan,county18,Nordland
+municip1866,Hadsel,county18,Nordland
+municip1867,Bø,county18,Nordland
+municip1868,Øksnes,county18,Nordland
+municip1870,Sortland,county18,Nordland
+municip1871,Andøy,county18,Nordland
+municip1874,Moskenes,county18,Nordland
+municip1875,Hamarøy,county18,Nordland
+municip3001,Halden,county30,Viken
+municip3002,Moss,county30,Viken
+municip3003,Sarpsborg,county30,Viken
+municip3004,Fredrikstad,county30,Viken
+municip3005,Drammen,county30,Viken
+municip3006,Kongsberg,county30,Viken
+municip3007,Ringerike,county30,Viken
+municip3011,Hvaler,county30,Viken
+municip3012,Aremark,county30,Viken
+municip3013,Marker,county30,Viken
+municip3014,Indre Østfold,county30,Viken
+municip3015,Skiptvet,county30,Viken
+municip3016,Rakkestad,county30,Viken
+municip3017,Råde,county30,Viken
+municip3018,Våler,county30,Viken
+municip3019,Vestby,county30,Viken
+municip3020,Nordre Follo,county30,Viken
+municip3021,Ås,county30,Viken
+municip3022,Frogn,county30,Viken
+municip3023,Nesodden,county30,Viken
+municip3024,Bærum,county30,Viken
+municip3025,Asker,county30,Viken
+municip3026,Aurskog-Høland,county30,Viken
+municip3027,Rælingen,county30,Viken
+municip3028,Enebakk,county30,Viken
+municip3029,Lørenskog,county30,Viken
+municip3030,Lillestrøm,county30,Viken
+municip3031,Nittedal,county30,Viken
+municip3032,Gjerdrum,county30,Viken
+municip3033,Ullensaker,county30,Viken
+municip3034,Nes,county30,Viken
+municip3035,Eidsvoll,county30,Viken
+municip3036,Nannestad,county30,Viken
+municip3037,Hurdal,county30,Viken
+municip3038,Hole,county30,Viken
+municip3039,Flå,county30,Viken
+municip3040,Nesbyen,county30,Viken
+municip3041,Gol,county30,Viken
+municip3042,Hemsedal,county30,Viken
+municip3043,Ål,county30,Viken
+municip3044,Hol,county30,Viken
+municip3045,Sigdal,county30,Viken
+municip3046,Krødsherad,county30,Viken
+municip3047,Modum,county30,Viken
+municip3048,Øvre Eiker,county30,Viken
+municip3049,Lier,county30,Viken
+municip3050,Flesberg,county30,Viken
+municip3051,Rollag,county30,Viken
+municip3052,Nore og Uvdal,county30,Viken
+municip3053,Jevnaker,county30,Viken
+municip3054,Lunner,county30,Viken
+municip3401,Kongsvinger,county34,Innlandet
+municip3403,Hamar,county34,Innlandet
+municip3405,Lillehammer,county34,Innlandet
+municip3407,Gjøvik,county34,Innlandet
+municip3411,Ringsaker,county34,Innlandet
+municip3412,Løten,county34,Innlandet
+municip3413,Stange,county34,Innlandet
+municip3414,Nord-Odal,county34,Innlandet
+municip3415,Sør-Odal,county34,Innlandet
+municip3416,Eidskog,county34,Innlandet
+municip3417,Grue,county34,Innlandet
+municip3418,Åsnes,county34,Innlandet
+municip3419,Våler,county34,Innlandet
+municip3420,Elverum,county34,Innlandet
+municip3421,Trysil,county34,Innlandet
+municip3422,Åmot,county34,Innlandet
+municip3423,Stor-Elvdal,county34,Innlandet
+municip3424,Rendalen,county34,Innlandet
+municip3425,Engerdal,county34,Innlandet
+municip3426,Tolga,county34,Innlandet
+municip3427,Tynset,county34,Innlandet
+municip3428,Alvdal,county34,Innlandet
+municip3429,Folldal,county34,Innlandet
+municip3430,Os,county34,Innlandet
+municip3431,Dovre,county34,Innlandet
+municip3432,Lesja,county34,Innlandet
+municip3433,Skjåk,county34,Innlandet
+municip3434,Lom,county34,Innlandet
+municip3435,Vågå,county34,Innlandet
+municip3436,Nord-Fron,county34,Innlandet
+municip3437,Sel,county34,Innlandet
+municip3438,Sør-Fron,county34,Innlandet
+municip3439,Ringebu,county34,Innlandet
+municip3440,Øyer,county34,Innlandet
+municip3441,Gausdal,county34,Innlandet
+municip3442,Østre-Toten,county34,Innlandet
+municip3443,Vestre-Toten,county34,Innlandet
+municip3446,Gran,county34,Innlandet
+municip3447,Søndre Land,county34,Innlandet
+municip3448,Nordre Land,county34,Innlandet
+municip3449,Sør-Aurdal,county34,Innlandet
+municip3450,Etnedal,county34,Innlandet
+municip3451,Nord-Aurdal,county34,Innlandet
+municip3452,Vestre-Slidre,county34,Innlandet
+municip3453,Øystre-Slidre,county34,Innlandet
+municip3454,Vang,county34,Innlandet
+municip3801,Horten,county38,Vestfold og Telemark
+municip3802,Holmestrand,county38,Vestfold og Telemark
+municip3803,Tønsberg,county38,Vestfold og Telemark
+municip3804,Sandefjord,county38,Vestfold og Telemark
+municip3805,Larvik,county38,Vestfold og Telemark
+municip3806,Porsgrunn,county38,Vestfold og Telemark
+municip3807,Skien,county38,Vestfold og Telemark
+municip3808,Notodden,county38,Vestfold og Telemark
+municip3811,Færder,county38,Vestfold og Telemark
+municip3812,Siljan,county38,Vestfold og Telemark
+municip3813,Bamble,county38,Vestfold og Telemark
+municip3814,Kragerø,county38,Vestfold og Telemark
+municip3815,Drangedal,county38,Vestfold og Telemark
+municip3816,Nome,county38,Vestfold og Telemark
+municip3817,Midt-Telemark,county38,Vestfold og Telemark
+municip3818,Tinn,county38,Vestfold og Telemark
+municip3819,Hjartdal,county38,Vestfold og Telemark
+municip3820,Seljord,county38,Vestfold og Telemark
+municip3821,Kviteseid,county38,Vestfold og Telemark
+municip3822,Nissedal,county38,Vestfold og Telemark
+municip3823,Fyresdal,county38,Vestfold og Telemark
+municip3824,Tokke,county38,Vestfold og Telemark
+municip3825,Vinje,county38,Vestfold og Telemark
+municip4201,Risør,county42,Agder
+municip4202,Grimstad,county42,Agder
+municip4203,Arendal,county42,Agder
+municip4204,Kristiansand,county42,Agder
+municip4205,Lindesnes,county42,Agder
+municip4206,Farsund,county42,Agder
+municip4207,Flekkefjord,county42,Agder
+municip4211,Gjerstad,county42,Agder
+municip4212,Vegårshei,county42,Agder
+municip4213,Tvedestrand,county42,Agder
+municip4214,Froland,county42,Agder
+municip4215,Lillesand,county42,Agder
+municip4216,Birkenes,county42,Agder
+municip4217,Åmli,county42,Agder
+municip4218,Iveland,county42,Agder
+municip4219,Evje og Hornnes,county42,Agder
+municip4220,Bygland,county42,Agder
+municip4221,Valle,county42,Agder
+municip4222,Bykle,county42,Agder
+municip4223,Vennesla,county42,Agder
+municip4224,Åseral,county42,Agder
+municip4225,Lyngdal,county42,Agder
+municip4226,Hægebostad,county42,Agder
+municip4227,Kvinesdal,county42,Agder
+municip4228,Sirdal,county42,Agder
+municip4601,Bergen,county46,Vestland
+municip4602,Kinn,county46,Vestland
+municip4611,Etne,county46,Vestland
+municip4612,Sveio,county46,Vestland
+municip4613,Bømlo,county46,Vestland
+municip4614,Stord,county46,Vestland
+municip4615,Fitjar,county46,Vestland
+municip4616,Tysnes,county46,Vestland
+municip4617,Kvinnherad,county46,Vestland
+municip4618,Ullensvang,county46,Vestland
+municip4619,Eidfjord,county46,Vestland
+municip4620,Ulvik,county46,Vestland
+municip4621,Voss herad,county46,Vestland
+municip4622,Kvam,county46,Vestland
+municip4623,Samnanger,county46,Vestland
+municip4624,Bjørnafjorden,county46,Vestland
+municip4625,Austevoll,county46,Vestland
+municip4626,Øygarden,county46,Vestland
+municip4627,Askøy,county46,Vestland
+municip4628,Vaksdal,county46,Vestland
+municip4629,Modalen,county46,Vestland
+municip4630,Osterøy,county46,Vestland
+municip4631,Alver,county46,Vestland
+municip4632,Austrheim,county46,Vestland
+municip4633,Fedje,county46,Vestland
+municip4634,Masfjorden,county46,Vestland
+municip4635,Gulen,county46,Vestland
+municip4636,Solund,county46,Vestland
+municip4637,Hyllestad,county46,Vestland
+municip4638,Høyanger,county46,Vestland
+municip4639,Vik,county46,Vestland
+municip4640,Sogndal,county46,Vestland
+municip4641,Aurland,county46,Vestland
+municip4642,Lærdal,county46,Vestland
+municip4643,Årdal,county46,Vestland
+municip4644,Luster,county46,Vestland
+municip4645,Askvoll,county46,Vestland
+municip4646,Fjaler,county46,Vestland
+municip4647,Sunnfjord,county46,Vestland
+municip4648,Bremanger,county46,Vestland
+municip4649,Stad,county46,Vestland
+municip4650,Gloppen,county46,Vestland
+municip4651,Stryn,county46,Vestland
+municip5001,Trondheim,county50,Trøndelag
+municip5006,Steinkjer,county50,Trøndelag
+municip5007,Namsos,county50,Trøndelag
+municip5014,Frøya,county50,Trøndelag
+municip5020,Osen,county50,Trøndelag
+municip5021,Oppdal,county50,Trøndelag
+municip5022,Rennebu,county50,Trøndelag
+municip5025,Røros,county50,Trøndelag
+municip5026,Holtålen,county50,Trøndelag
+municip5027,Midtre-Gauldal,county50,Trøndelag
+municip5028,Melhus,county50,Trøndelag
+municip5029,Skaun,county50,Trøndelag
+municip5031,Malvik,county50,Trøndelag
+municip5032,Selbu,county50,Trøndelag
+municip5033,Tydal,county50,Trøndelag
+municip5034,Meråker,county50,Trøndelag
+municip5035,Stjørdal,county50,Trøndelag
+municip5036,Frosta,county50,Trøndelag
+municip5037,Levanger,county50,Trøndelag
+municip5038,Verdal,county50,Trøndelag
+municip5041,Snåase-Snåsa,county50,Trøndelag
+municip5042,Lierne,county50,Trøndelag
+municip5043,Røyrvik,county50,Trøndelag
+municip5044,Namsskogan,county50,Trøndelag
+municip5045,Grong,county50,Trøndelag
+municip5046,Høylandet,county50,Trøndelag
+municip5047,Overhalla,county50,Trøndelag
+municip5049,Flatanger,county50,Trøndelag
+municip5052,Leka,county50,Trøndelag
+municip5053,Inderøy,county50,Trøndelag
+municip5054,Indre-Fosen,county50,Trøndelag
+municip5055,Heim,county50,Trøndelag
+municip5056,Hitra,county50,Trøndelag
+municip5057,Ørland,county50,Trøndelag
+municip5058,Åfjord,county50,Trøndelag
+municip5059,Orkland,county50,Trøndelag
+municip5060,Nærøysund,county50,Trøndelag
+municip5061,Rindal,county50,Trøndelag
+municip5401,Tromsø,county54,Troms og Finnmark
+municip5402,Harstad,county54,Troms og Finnmark
+municip5403,Alta,county54,Troms og Finnmark
+municip5404,Vardø,county54,Troms og Finnmark
+municip5405,Vadsø,county54,Troms og Finnmark
+municip5406,Hammerfest,county54,Troms og Finnmark
+municip5411,Kvæfjord,county54,Troms og Finnmark
+municip5412,Tjeldsund,county54,Troms og Finnmark
+municip5413,Ibestad,county54,Troms og Finnmark
+municip5414,Gratangen,county54,Troms og Finnmark
+municip5415,Loabák - Lavangen,county54,Troms og Finnmark
+municip5416,Bardu,county54,Troms og Finnmark
+municip5417,Salangen,county54,Troms og Finnmark
+municip5418,Målselv,county54,Troms og Finnmark
+municip5419,Sørreisa,county54,Troms og Finnmark
+municip5420,Dyrøy,county54,Troms og Finnmark
+municip5421,Senja,county54,Troms og Finnmark
+municip5422,Balsfjord,county54,Troms og Finnmark
+municip5423,Karlsøy,county54,Troms og Finnmark
+municip5424,Lyngen,county54,Troms og Finnmark
+municip5425,Storfjord - Omasvuotna - Omasvuono,county54,Troms og Finnmark
+municip5426,Gáivuotna - Kåfjord - Kaivuono,county54,Troms og Finnmark
+municip5427,Skjervøy,county54,Troms og Finnmark
+municip5428,Nordreisa,county54,Troms og Finnmark
+municip5429,Kvænangen,county54,Troms og Finnmark
+municip5430,Guovdageaidnu - Kautokeino,county54,Troms og Finnmark
+municip5432,Loppa,county54,Troms og Finnmark
+municip5433,Hasvik,county54,Troms og Finnmark
+municip5434,Måsøy,county54,Troms og Finnmark
+municip5435,Nordkapp,county54,Troms og Finnmark
+municip5436,Porsanger - Porsá?gu - Porsanki,county54,Troms og Finnmark
+municip5437,Kárášjohka - Karasjok,county54,Troms og Finnmark
+municip5438,Lebesby,county54,Troms og Finnmark
+municip5439,Gamvik,county54,Troms og Finnmark
+municip5440,Berlevåg,county54,Troms og Finnmark
+municip5441,Deatnu - Tana,county54,Troms og Finnmark
+municip5442,Unjárga - Nesseby,county54,Troms og Finnmark
+municip5443,Båtsfjord,county54,Troms og Finnmark
+municip5444,Sør-Varanger,county54,Troms og Finnmark

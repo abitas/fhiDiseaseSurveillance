@@ -1,0 +1,18 @@
+{
+  "name": "xx_02",
+  "version": "1.0.0",
+  "description": "Demo/test application for infectious disease surveillance",
+  "main": "server.js",
+  "author": "Bjørn Solheim",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "vue-resource": "^0.1.17"
+  },
+  "devDependencies": {
+    "body-parser": "^1.14.1",
+    "errorhandler": "^1.4.2",
+    "method-override": "^2.3.5",
+    "morgan": "^1.6.1"
+  }
+}
